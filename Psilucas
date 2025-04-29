@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lucas Bento de Almeida - Psicólogo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 2rem;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      color: #005b7f;
+    }
+    .button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background-color: #005b7f;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Lucas Bento de Almeida</h1>
+    <p><strong>Psicólogo (CRP [insira seu número])</strong></p>
+    <p>Atendimento online individual | Foco em ansiedade, autoestima e relacionamentos</p>
+
+    <div class="section">
+      <h2>Você está sobrecarregado emocionalmente?</h2>
+      <p>A terapia pode te ajudar a lidar com ansiedade, inseguranças e desafios pessoais. Vamos conversar?</p>
+    </div>
+
+    <div class="section">
+      <h2>Como posso te ajudar</h2>
+      <ul>
+        <li>Atendimento acolhedor e ético</li>
+        <li>Psicoterapia online, com foco na sua escuta e transformação</li>
+        <li>Abordagem personalizada com base nas suas necessidades</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Especialidades</h2>
+      <ul>
+        <li>Ansiedade e estresse</li>
+        <li>Baixa autoestima</li>
+        <li>Relacionamentos (familiares, amorosos, profissionais)</li>
+        <li>Autoconhecimento</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Agende sua conversa inicial gratuita</h2>
+      <p>Vamos conversar por WhatsApp ou por chamada de vídeo.</p>
+      <a href="https://wa.me/seunumero" class="button" target="_blank">Agendar agora pelo WhatsApp</a>
+    </div>
+
+    <div class="section">
+      <h2>Sobre mim</h2>
+      <p>Sou o psicólogo Lucas Bento de Almeida, apaixonado por ajudar pessoas a viverem com mais leveza e propósito. Atendo exclusivamente online, com sigilo e dedicação.</p>
+    </div>
+
+    <div class="section">
+      <h2>Contato rápido</h2>
+      <p>WhatsApp: <a href="https://wa.me/seunumero">(XX) XXXXX-XXXX</a></p>
+      <p>E-mail: seuemail@email.com</p>
+      <p>Instagram: <a href="https://instagram.com/seuperfil" target="_blank">@seuperfil</a></p>
+    </div>
+  </div>
+</body>
+</html>
